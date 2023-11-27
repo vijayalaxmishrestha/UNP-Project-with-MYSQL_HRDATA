@@ -3,7 +3,7 @@
 Completed my capstone project 2 with MySQL during my internship at the United Network of Professionals (UNP)
 
  Step 1:  Create the database and the tables:
- (i) Create the tables with the columns mentioned.
+ (i) Create the tables with the columns.
 (ii) Put the constraints (primary key, foreign key etc) in the columns.
 
 Step 2:  Insert the data into the tables
@@ -21,6 +21,7 @@ Step 3: Write the SQL queries
 10. Average Performance Rating.
 
 SQL Link: https://drive.google.com/file/d/1GdStOU_SYN_8z29sshqR3z98bs-wM_oR/view?usp=sharing
+
 PDF Link: https://drive.google.com/file/d/19G0B7AkUjjg-ySEtOnwjEFY8KXeUbxEc/view?usp=sharing
 
 
