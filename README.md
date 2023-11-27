@@ -1,6 +1,7 @@
 # UNP-Project-with-MYSQL_HRDATA
 
 Completed my capstone project 2 with MySQL during my internship at the United Network of Professionals (UNP)
+
  Step 1:  Create the database and the tables:
  (i) Create the tables with the columns mentioned.
 (ii) Put the constraints (primary key, foreign key etc) in the columns.
