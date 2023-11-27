@@ -20,5 +20,8 @@ Step 3: Write the SQL queries
 9. Top Performing Departments.
 10. Average Performance Rating.
 
+SQL Link: https://drive.google.com/file/d/1GdStOU_SYN_8z29sshqR3z98bs-wM_oR/view?usp=sharing
+PDF Link: https://drive.google.com/file/d/19G0B7AkUjjg-ySEtOnwjEFY8KXeUbxEc/view?usp=sharing
+
 
 
