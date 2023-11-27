@@ -1,5 +1,22 @@
 # UNP-Project-with-MYSQL_HRDATA
 
 Completed my capstone project 2 with MySQL during my internship at the United Network of Professionals (UNP)
-1. 
+ Step 1:  Create the database and the tables:
+ (i) Create the tables with the columns mentioned.
+(ii) Put the constraints (primary key, foreign key etc) in the columns.
+
+Step 2:  Insert the data into the tables
+Step 3: Write the SQL queries
+1. Number of employees from each city.
+2. Average salary by RaceDesc.
+3. Department with the highest employees.
+4. Department with the highest salary.
+5. Average salary per gender.
+6. Top Earning Positions.
+7. Number of employees from the source of recruitment.
+8. Total absences by departments.
+9. Top Performing Departments.
+10. Average Performance Rating.
+
+
 
