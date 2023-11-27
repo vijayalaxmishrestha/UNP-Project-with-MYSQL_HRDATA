@@ -6,6 +6,7 @@ Completed my capstone project 2 with MySQL during my internship at the United Ne
 (ii) Put the constraints (primary key, foreign key etc) in the columns.
 
 Step 2:  Insert the data into the tables
+
 Step 3: Write the SQL queries
 1. Number of employees from each city.
 2. Average salary by RaceDesc.
